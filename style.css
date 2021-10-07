@@ -1,0 +1,16 @@
+body, html {view
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+body,html{background-color: #FF6F91;
+}
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("/pic5.jpeg");
+  min-height: 75%;
+}
+
+.menu {
+  display:none;
+}
